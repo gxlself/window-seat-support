@@ -1,8 +1,8 @@
 # Window Seat · 舷窗 Support
 
-Window Seat is an offline game collection for iPhone and iPad. For help, bug reports, or accessibility feedback, [open a support issue](https://github.com/gxlself/window-seat-support/issues/new). You can write in English or Chinese. Please do not post personal information in a public issue.
+Window Seat is an offline game collection for iPhone, iPad, and Android. The Android APK is on the [releases page](https://github.com/gxlself/window-seat-support/releases). For help, bug reports, or accessibility feedback, [open a support issue](https://github.com/gxlself/window-seat-support/issues/new). You can write in English or Chinese. Please do not post personal information in a public issue.
 
-舷窗是一款适用于 iPhone 和 iPad 的离线游戏合集。需要帮助、报告问题或反馈无障碍体验，请[提交支持问题](https://github.com/gxlself/window-seat-support/issues/new)。支持中文和英文，请勿在公开问题中填写个人信息。
+舷窗是一款适用于 iPhone、iPad 和 Android 的离线游戏合集。Android 安装包见[发布页](https://github.com/gxlself/window-seat-support/releases)。需要帮助、报告问题或反馈无障碍体验，请[提交支持问题](https://github.com/gxlself/window-seat-support/issues/new)。支持中文和英文，请勿在公开问题中填写个人信息。
 
 ## Nearby play · 附近联机
 
