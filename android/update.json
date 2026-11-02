@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "latest": {
+    "versionName": "1.0.5",
+    "versionCode": 15,
+    "tag": "android-v1.0.5",
+    "publishedAt": "2026-11-02T18:46:25Z",
+    "prerelease": false,
+    "notes": "## 新内容\n\n- **新游戏：法国跳棋。** 10×10 国际跳棋，规则为飞王、有吃必吃、必须吃最多的子。支持人机三档难度、同屏对战和附近联机。\n- **围棋新增 19 路。**\n  - 19 路改为两步落子：先点一下出现预览和坐标，再点同一点或按「落子」确认，减少误触。\n  - 电脑也会下 19 路。\n  - 附近联机时，双方都是新版本才能选 19 路。\n\n## 更新更顺畅\n\n- 检查更新会同时走多条线路（GitHub、GitHub Pages、jsDelivr），国内网络也能查到新版本。\n- 下载会自动选最快的线路，支持断点续传；网速太慢时自动换线路。\n- 仍然失败时，可以一键改用浏览器下载。\n\n需要 Android 8.0 及以上。从 1.0.4 及更早版本升级时，这一次仍走旧的下载方式；装上 1.0.5 后，之后的更新都会用新的多线路下载。\n",
+    "apk": {
+      "name": "windowseat-android-1.0.5.apk",
+      "size": 6762553,
+      "sha256": "8f6aa911aca2b33d68f315d144af80aa643ddb18d429a5763d5278b6f9fe7bec",
+      "urls": [
+        "https://fastly.jsdelivr.net/gh/gxlself/window-seat-support@main/android/apk/windowseat-android-1.0.5.apk",
+        "https://gcore.jsdelivr.net/gh/gxlself/window-seat-support@main/android/apk/windowseat-android-1.0.5.apk",
+        "https://testingcf.jsdelivr.net/gh/gxlself/window-seat-support@main/android/apk/windowseat-android-1.0.5.apk",
+        "https://gxlself.github.io/window-seat-support/android/apk/windowseat-android-1.0.5.apk",
+        "https://github.com/gxlself/window-seat-support/releases/download/android-v1.0.5/windowseat-android-1.0.5.apk"
+      ]
+    }
+  }
+}
