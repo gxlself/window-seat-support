@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "latest": {
-    "versionName": "1.0.6",
-    "versionCode": 16,
-    "tag": "android-v1.0.6",
-    "publishedAt": "2026-11-26T08:11:24Z",
+    "versionName": "1.0.7",
+    "versionCode": 17,
+    "tag": "android-v1.0.7",
+    "publishedAt": "2026-11-28T10:03:04Z",
     "prerelease": false,
-    "notes": "修复中国跳棋空位跳设置与掼蛋双下进贡卡住问题。\n",
+    "notes": "新增 12 款游戏：领地争夺（支持附近联机）、剪绳投递、成语填字、猜成语、搭桥、帐篷、数回、算独、倒水排序、挪车、灯塔、数壹。\n",
     "apk": {
-      "name": "windowseat-android-1.0.6.apk",
-      "size": 6754802,
-      "sha256": "47d7672a61cffc55a0076609856c38d8d8217b3234642545a30bd6cee057a95c",
+      "name": "windowseat-android-1.0.7.apk",
+      "size": 7389373,
+      "sha256": "14c90cde6e04464aaef92947b5e464de27d5510e0a1be7c6be96092eec645980",
       "urls": [
-        "https://fastly.jsdelivr.net/gh/gxlself/window-seat-support@main/android/apk/windowseat-android-1.0.6.apk",
-        "https://gcore.jsdelivr.net/gh/gxlself/window-seat-support@main/android/apk/windowseat-android-1.0.6.apk",
-        "https://testingcf.jsdelivr.net/gh/gxlself/window-seat-support@main/android/apk/windowseat-android-1.0.6.apk",
-        "https://gxlself.github.io/window-seat-support/android/apk/windowseat-android-1.0.6.apk",
-        "https://github.com/gxlself/window-seat-support/releases/download/android-v1.0.6/windowseat-android-1.0.6.apk"
+        "https://fastly.jsdelivr.net/gh/gxlself/window-seat-support@main/android/apk/windowseat-android-1.0.7.apk",
+        "https://gcore.jsdelivr.net/gh/gxlself/window-seat-support@main/android/apk/windowseat-android-1.0.7.apk",
+        "https://testingcf.jsdelivr.net/gh/gxlself/window-seat-support@main/android/apk/windowseat-android-1.0.7.apk",
+        "https://gxlself.github.io/window-seat-support/android/apk/windowseat-android-1.0.7.apk",
+        "https://github.com/gxlself/window-seat-support/releases/download/android-v1.0.7/windowseat-android-1.0.7.apk"
       ]
     }
   }
